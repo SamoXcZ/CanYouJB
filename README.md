@@ -11,8 +11,12 @@ Arm64e
 All iOS versions from 16.0 up to 17.0
 
 Unsupported iOS versions(for now)
+
 iOS 10-15.8.1 
+
 iOS 16.7.2
+
 iOS 17+
+
 (in all iOS 15 seems to be an error that crashes even if app is builded with 15.6sdk. Maybe Soon will be fixed.
 
