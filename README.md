@@ -1,22 +1,14 @@
 ![B2FCE874-ACFC-4F35-A302-1BA90C32F067](https://github.com/SamoXcZ/CanYouJB/assets/111131419/7d4f87b9-30b9-4d39-9768-6bf353e2e8b0)
 
-CanYouJB? is an simple Jabilbreak Finder for your mobile.
+CanYouJB? is a simple Jailbreak Finder for your mobile.
 
-Supported iOS!
+Supporting Arm64 and Arm64e architectures.
 
-Arm64
-All iOS versions from 16.0 up to 17.0
+It works with all iOS versions from 16.0 up to 17.0, excluding 
 
-Arm64e
-All iOS versions from 16.0 up to 17.0
+iOS 10-15.8.1, 
 
-Unsupported iOS versions(for now)
+iOS 16.7.2, 
 
-iOS 10-15.8.1 
-
-iOS 16.7.2
-
-iOS 17+
-
-(in all iOS 15 seems to be an error that crashes even if app is builded with 15.6sdk. Maybe Soon will be fixed.
-
+and iOS 17+.
+Please note that there is an error in iOS 15 causing crashes, even with the app built using 15.6 SDK. A fix may be implemented soon.
