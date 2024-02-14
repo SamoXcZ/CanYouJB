@@ -13,3 +13,5 @@ iOS 16.7.2,
 iOS 17+
 
 Please note that there is an error in iOS 15 causing crashes, even with the app built using 15.6 SDK. A fix may be implemented soon.
+
+!Note!: App is unfinished, and may have buggs or not even showing anything after you Search an JB, these are Expected tho⁉️
