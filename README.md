@@ -8,11 +8,11 @@ It works with all iOS versions from 16.0 up to 17.0,
 
 ❗️UNSUPPORTED iOS versions (for now)❗️
 
-🛑iOS 15.0-15.8.1, 
+🛑iOS 15.0-15.8.1 (arm64) 
 
-🛑iOS 16.7.2, 
+🛑iOS 16.7.2 (arm64) 
 
-🛑iOS 17+
+🛑iOS 17 and higher (arm64e)
 
 Please note that there is an error in iOS 15 causing crashes, even with the app built using 15.6 SDK. A fix may be implemented soon.
 
