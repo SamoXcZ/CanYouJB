@@ -5,7 +5,7 @@ CanYouJB? is a simple Jailbreak Finder for your mobile.
 
 Supporting Arm64 and Arm64e architectures.
 
-It works with all iOS versions from 16.0 up to 17.0, 
+It works with all iOS versions from 15.0 up to 17.0, 
 
 ❗️UNSUPPORTED iOS versions (for now)❗️
  
