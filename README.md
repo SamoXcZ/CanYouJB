@@ -10,6 +10,7 @@ It works with all iOS versions from 15.0 up to 17.0,
 ❗️UNSUPPORTED iOS versions (for now)❗️
  
 🛑iOS 15.0 and lower
+
 🛑iOS 17 and higher (arm64e)
 
 
