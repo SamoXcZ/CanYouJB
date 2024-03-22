@@ -1,5 +1,5 @@
 
-![IMG_2861](https://github.com/SamoXcZ/CanYouJB/assets/111131419/3a259656-b44a-4803-aa7b-6f6c87892871)
+![EA199AC6-2E3F-4646-B8EC-7745124409EF](https://github.com/SamoXcZ/CanYouJB/assets/111131419/3e46a15a-eac4-45f6-86b8-b9d4fe88f608)
 
 CanYouJB? is a simple Jailbreak Finder for your mobile.
 
